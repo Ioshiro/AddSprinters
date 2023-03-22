@@ -1,0 +1,11 @@
+Sandbox_IT = {
+	Sandbox_AddSprinters = "Opzioni Zombie Avanzatissime",
+	Sandbox_SprinterProbabilityDay = "Probabilità Corridori di Giorno",
+	Sandbox_SprinterProbabilityNight = "Probabilità Corridori di Notte",
+	Sandbox_ShamblerProbability = "Probabilità Camminatori Lenti",
+	Sandbox_SprinterHealthModifier = "Modificatore Vita Corridori",
+	Sandbox_FastShamblerHealthModifier = "Modificatore Vita Camminatori",
+	Sandbox_ShamblerHealthModifier = "Modificatore Vita Camminatori Lenti",
+	Sandbox_ZombiePlayerHealthModifier = "Modificatore Vita Zombie Player",
+	Sandbox_Frequency = "Frequenza aggiornamento (ms)"
+}

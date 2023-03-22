@@ -1,0 +1,11 @@
+Sandbox_EN = {
+	Sandbox_AddSprinters = "Very Advanced Zombie Options",
+	Sandbox_SprinterProbabilityDay = "Sprinter Probability by Day",
+	Sandbox_SprinterProbabilityNight = "Sprinter Probability by Night",
+	Sandbox_ShamblerProbability = "Shambler Probability",
+	Sandbox_SprinterHealthModifier = "Sprinter Health Modifier",
+	Sandbox_FastShamblerHealthModifier = "Fast Shambler Health Modifier",
+	Sandbox_ShamblerHealthModifier = "Shambler Health Modifier",
+	Sandbox_ZombiePlayerHealthModifier = "Zombie Player Health Modifier",
+	Sandbox_Frequency = "Update frequency (milliseconds)"
+}

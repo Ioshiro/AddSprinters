@@ -37,7 +37,7 @@ option AddSprinters.SprinterHealthModifier
 {
   type = double,
   min = 0.0,
-  max = 10.0,
+  max = 999.0,
   default = 0.1,
 
   page = AddSprinters,
@@ -48,7 +48,7 @@ option AddSprinters.FastShamblerHealthModifier
 {
   type = double,
   min = 0.0,
-  max = 10.0,
+  max = 999.0,
   default = 2.0,
 
   page = AddSprinters,
@@ -59,7 +59,7 @@ option AddSprinters.ShamblerHealthModifier
 {
   type = double,
   min = 0.0,
-  max = 10.0,
+  max = 999.0,
   default = 4.0,
 
   page = AddSprinters,
@@ -70,7 +70,7 @@ option AddSprinters.ZombiePlayerHealthModifier
 {
   type = double,
   min = 0.0,
-  max = 100.0,
+  max = 999.0,
   default = 50.0,
 
   page = AddSprinters,
